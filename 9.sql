@@ -11,5 +11,3 @@ WHERE InvoiceDate LIKE '2009%';
 
 SELECT SUM(Total) FROM Invoice
 WHERE InvoiceDate LIKE '2011%';
-
-/* Got to be a way to combine, but I could not find it.*/ 

@@ -1,3 +1,3 @@
 SELECT CustomerId 
 FROM Invoice 
-WHERE BillingCountry = 'Brazil';
+WHERE BillingCountry == 'Brazil';

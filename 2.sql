@@ -1,2 +1,2 @@
 SELECT * FROM CUSTOMER 
-WHERE Country = 'Brazil';
+WHERE Country == 'Brazil';
