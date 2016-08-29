@@ -1,1 +1,3 @@
-SELECT FirstName || " " || LastName  FROM CUSTOMER WHERE Country = 'Brazil'
+SELECT FirstName || " " || LastName 
+FROM CUSTOMER 
+WHERE Country = 'Brazil';
